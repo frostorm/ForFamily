@@ -12,7 +12,7 @@
 
 关于养育：
 
-- [如果你也在天上挑妈妈 · 家书 000](https://ishanshan.im/murmur/LetterFamily000Baby.html) 
+- [如果你也在天上挑妈妈 · 家书 000](https://ishanshan.im/murmur/LetterFamily000Baby.html)
 - [如果我来陪你走一程 | 养娃清单](https://github.com/ishanshan/ForFamily/blob/master/HbParenting.md)
 - [我关注的育儿 role model]()(TBD)
 
@@ -39,9 +39,8 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 
-## Changelog 
+## Changelog
 
 - 180828 闪闪增补关爱家人行动清单
 - 180124 闪闪添加 CC-BY-SA 4.0 license
 - 171125 闪闪创建
-
